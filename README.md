@@ -10,8 +10,8 @@ $ npm install
 # development
 $ npm run dev
 
-# preview
-$ npm run preview
+# tests
+$ npm run test
 
 # production mode
 $ npm run build
